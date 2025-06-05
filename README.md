@@ -97,8 +97,3 @@ Distributed under the **MIT Licence**.
 *Project Lead* · **<@usernamap>**
 email : `contact@aliatech.fr`
 
----
-
-## Acknowledgements
-
-* Gener
