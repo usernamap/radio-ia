@@ -82,13 +82,13 @@ All content is produced on-the-fly, eliminating traditional licensing costs and 
 
 ## Code of Conduct
 
-This project adheres to the **Contributor Covenant v2.1**. By participating, you agree to uphold a respectful, inclusive environment.
+This project adheres to the **Contributor Covenant v2.1**. By participating, you agree to uphold a respectful, inclusive environment. Please see [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for full details.
 
 ---
 
 ## Licence
 
-Distributed under the **MIT Licence**.
+Distributed under the **MIT Licence**. See [LICENSE](./LICENSE).
 
 ---
 
