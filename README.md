@@ -95,8 +95,7 @@ Distributed under the **MIT Licence**.
 ## Contact
 
 *Project Lead* · **<@usernamap>**
-email : `contact@example.com`
-LinkedIn : `https://linkedin.com/in/<handle>`
+email : `contact@aliatech.fr`
 
 ---
 
